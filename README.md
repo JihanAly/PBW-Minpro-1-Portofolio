@@ -18,6 +18,8 @@ Berisi perkenalan singkat dan foto.
 
 ### 2. About Me
 Deskripsi diri singkat, Skills dengan progress bar, dan Hobbies.
+<img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/462429e0-2df2-481d-94c6-32127432d197" />
+
 
 
 ### 3. Experience
