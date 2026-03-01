@@ -39,6 +39,20 @@ Daftar sertifikat dalam bentuk card grid.
 - **Navbar**
   Navigasi ke setiap section (Home, About, Experience, Certificates).
   
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio JihanAly</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+
     <nav>
         <div class="logo">Jihanly</div>
         <ul>
@@ -61,7 +75,7 @@ Navbar berisi logo ‘Jihanly’ di kiri dan menu navigasi ke section Home, Abou
         </p>
     </div>
     <div class="hero-image">
-        <img src="foto jihan (3).jpeg" alt="Foto Jihan">
+        <img src="foto jihan (3).jpg" alt="Foto Jihan">
         <div class="circle circle1"></div>
         <div class="circle circle2"></div>
         <div class="circle circle3"></div>
