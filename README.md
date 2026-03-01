@@ -67,20 +67,8 @@ Navbar berisi logo ‘Jihanly’ di kiri dan menu navigasi ke section Home, Abou
 
 
 - **Home Section**  
-  <section id="home" class="hero">
-    <div class="hero-text">
-        <h1>Hai, Saya Jihan Alya Naflah</h1>
-        <p>
-        Mahasiswa aktif Program Studi Sistem Informasi semester 4 di Universitas Mulawarman.
-        </p>
-    </div>
-    <div class="hero-image">
-        <img src="foto jihan (3).jpg" alt="Foto Jihan">
-        <div class="circle circle1"></div>
-        <div class="circle circle2"></div>
-        <div class="circle circle3"></div>
-    </div>
-</section>
+ <img width="559" height="292" alt="image" src="https://github.com/user-attachments/assets/938a52fb-e6e3-42b7-88e2-06b71c19e433" />
+
 
  Home section menampilkan perkenalan singkat Jihan Alya Naflah dengan teks, foto, dan elemen dekoratif lingkaran mengambang di samping foto.
 
